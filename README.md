@@ -3,6 +3,7 @@
 
 A full-stack web application designed to visualize, analyze, and forecast economic indicators (GDP, Literacy, etc.) using data from the World Bank. 
 The system features Role-Based Access Control (RBAC), serving different interfaces to Students, Researchers, and Policymakers.
+
 **2. Technology Stack**
 Frontend (Client-Side)
 
