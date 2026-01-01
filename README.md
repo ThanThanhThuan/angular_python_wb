@@ -1,4 +1,4 @@
-## World Bank Development Indicators Portal
+# World Bank Development Indicators Portal
 **1. Project Overview**
 
 A full-stack web application designed to visualize, analyze, and forecast economic indicators (GDP, Literacy, etc.) using data from the World Bank. 
@@ -30,11 +30,11 @@ Backend (Server-Side)
 
 **Quick Start Guide for VSCode:**
 cd backend
-# 1. Activate Virtual Environment (Git Bash)
+1. Activate Virtual Environment (Git Bash)
 source venv/Scripts/activate
-# OR (Command Prompt) -> venv\Scripts\activate
+OR (Command Prompt) -> venv\Scripts\activate
 
-# 2. Run Server
+2. Run Server
 python manage.py runserver
 
 cd frontend
