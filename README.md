@@ -30,6 +30,7 @@ Backend (Server-Side)
     Authentication: JWT (JSON Web Tokens) - Planned.
 
 **Quick Start Guide for VSCode:**
+
 cd backend
 1. Activate Virtual Environment (Git Bash)
 source venv/Scripts/activate
